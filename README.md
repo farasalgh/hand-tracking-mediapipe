@@ -20,8 +20,8 @@ Pastikan Anda memiliki **Python 3.7 atau versi lebih baru** yang sudah terinstal
 
 1. **Clone repositori ini:**
    ```bash
-   git clone https://github.com/username/hand-gesture-recognition-mediapipe.git
-   cd hand-gesture-recognition-mediapipe
+   git clone https://github.com/farasalgh/hand-tracking-mediapipe.git
+   cd hand-tracking-mediapipe
    ```
 
 2. **Buat dan aktifkan virtual environment (opsional, direkomendasikan):**
